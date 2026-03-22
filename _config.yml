@@ -1,3 +1,11 @@
+# Configurações do Tema Minima
+# Remova ou comente a linha 'theme: minima'
+# theme: minima
+
+remote_theme: jekyll/minima
+
+minima:
+  skin: dark
 title: Levi Calleb | Engenharia Elétrica UFC
 email: levicalleb@alu.ufc.br
 description: >- # Aparece nos resultados de busca
@@ -6,11 +14,4 @@ description: >- # Aparece nos resultados de busca
 baseurl: "" 
 url: "https://levicmm.github.io"
 theme: minima
-# Configurações do Tema Minima
-# Use remote_theme para garantir a versão mais nova que suporta skins
-remote_theme: jekyll/minima
 
-minima:
-  skin: dark
-
-# O restante das suas configurações (title, header_pages, etc)
