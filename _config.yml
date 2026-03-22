@@ -6,3 +6,6 @@ description: >- # Aparece nos resultados de busca
 baseurl: "" 
 url: "https://levicmm.github.io"
 theme: minima
+# Configurações do Tema Minima
+minima:
+  skin: dark
