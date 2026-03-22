@@ -1,2 +1,8 @@
-theme: minima
 title: Levi Calleb | Engenharia Elétrica UFC
+email: levicalleb@alu.ufc.br
+description: >- # Aparece nos resultados de busca
+  Portfólio técnico focado em Sistemas Elétricos de Potência, Sistemas Fotovoltaicos, Manutenção Preditiva 
+  e Monitoria Acadêmica (Sinais e Sistemas - DETI/UFC).
+baseurl: "" 
+url: "https://levicmm.github.io"
+theme: minima
